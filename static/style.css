@@ -1,0 +1,32 @@
+#wrap {
+	margin-left: 110px;
+	width: 100%;
+}
+
+#scrlblck {
+	position: absolute;
+	width: 100px;
+	margin-left: -110px;
+	display: block;
+}
+
+#scrlblck ul {
+	list-style: none;
+	display: block;
+	padding: 0px;
+}
+
+#scrlblck li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: linear-gradient(90deg,#DDFFDD,#FFFFFF);
+}
+
+#scrlblck a {
+	text-decoration: none;
+}
+
+#contents {
+	width: 80%;
+}
+
